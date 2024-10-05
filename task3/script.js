@@ -1,0 +1,1 @@
+let square = document.querySelector('#square')
